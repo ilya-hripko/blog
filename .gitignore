@@ -1,0 +1,13 @@
+/app/views/emails_tpl/
+/app/views/front/auth/forgot.php
+/app/controllers/cron/
+/app/controllers/super_admin/
+/app/models/super_admin/
+/app/models/cron_model.php
+/app/models/sitemap_model.php
+/app/views/super_admin/
+/public_html/assets/_admin/
+/public_html/assets/bxslider/
+/public_html/assets/ckeditor/
+/public_html/assets/datepicker/
+/public_html/assets/sitemap/
